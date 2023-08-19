@@ -1,0 +1,3 @@
+자격증:none
+대외활동:none
+사용기술: python, R
